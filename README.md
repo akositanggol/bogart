@@ -1,1 +1,7 @@
-# bogart
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    printf("Hello Tanggol!);
+    getch();
+}
